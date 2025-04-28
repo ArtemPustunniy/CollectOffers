@@ -1,0 +1,6 @@
+python-dotenv
+openai
+bs4
+selenium
+pyrotgfork
+tgcrypto

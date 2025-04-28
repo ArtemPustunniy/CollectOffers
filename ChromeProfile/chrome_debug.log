@@ -1,0 +1,28 @@
+[30956:34064:0428/210735.287:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
+[27856:24536:0428/210736.111:WARNING:spdy_session.cc(2980)] Received HEADERS for invalid stream 1
+[30956:34064:0428/210737.477:INFO:CONSOLE(1)] "Error while trying to use the following icon from the Manifest: https://web.telegram.org/a/icon-192x192.png (Download error or resource isn't a valid image)", source: https://web.telegram.org/a/ (1)
+[27856:24536:0428/210737.527:WARNING:spdy_session.cc(2980)] Received HEADERS for invalid stream 19
+[36260:25108:0428/210737.714:WARNING:sync_reader.cc(148)] ASR: No room in socket buffer.: Идет закрытие канала. (0xE8)
+[30956:34064:0428/210737.767:INFO:CONSOLE(1)] "%s [33m%s [0.014] [SW] init", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210737.768:INFO:CONSOLE(1)] "%s [33m%s [0.015] [SW] got 0 windows from the start", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[5780:16056:0428/210737.854:ERROR:gles2_cmd_decoder_passthrough.cc(1081)] [GroupMarkerNotSet(crbug.com/242999)!:A0901B0094680000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+[30956:34064:0428/210737.891:INFO:CONSOLE(0)] "[GroupMarkerNotSet(crbug.com/242999)!:A0901B0094680000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.", source: https://web.telegram.org/k/#@archi_ru (0)
+[30956:34064:0428/210737.893:INFO:CONSOLE(21)] "Supported image mime types [object Set]", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210737.893:INFO:CONSOLE(1)] "%s [33m%s [0.140] [SW] window connected 09ae3e38-5ff5-4860-b132-914c53081d4f windows before 0", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210737.893:INFO:CONSOLE(1)] "%s [33m%s [0.140] [SW] windows ", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210737.894:INFO:CONSOLE(1)] "%s [33m%s [0.140] [SW] sending message port for mtproto", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210737.966:INFO:CONSOLE(21)] "Elapsed time since unlocked: 8.197998046875 ms allStates loaded", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210737.967:INFO:CONSOLE(21)] "Elapsed time since unlocked: 9.0869140625 ms singleInstance started", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210737.971:INFO:CONSOLE(21)] "Elapsed time since unlocked: 12.990966796875 ms sent all states (1)", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210737.983:INFO:CONSOLE(21)] "Elapsed time since unlocked: 25.0029296875 ms await I18n.getCacheLangPack()", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210738.062:INFO:CONSOLE(21)] "Elapsed time since unlocked: 103.550048828125 ms sent all states (2)", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210738.076:INFO:CONSOLE(21)] "got state, time: 191.59999999403954", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210738.076:INFO:CONSOLE(21)] "Elapsed time since unlocked: 117.89697265625 ms IMAGE_MIME_TYPES_SUPPORTED_PROMISE", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210738.076:INFO:CONSOLE(21)] "Will mount IM page: 1745863658.077", source: https://web.telegram.org/k/index-_cjUYlWT.js (21)
+[30956:34064:0428/210738.292:INFO:CONSOLE(0)] "Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.", source: https://web.telegram.org/k/#@archi_ru (0)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.766] [SW] something has disconnected [object WindowClient]", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.766] [SW] window disconnected, left 0", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.766] [SW] no windows left", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.767] [SW] something has disconnected [object MessagePort]", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.767] [SW] it is not a window", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
+[30956:34064:0428/210742.523:INFO:CONSOLE(1)] "%s [33m%s [4.767] [SW] cancelling all downloads", source: https://web.telegram.org/k/sw-OPgcUoz0.js (1)
