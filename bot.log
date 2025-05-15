@@ -5433,3 +5433,18 @@ Edited: 1 February 2025, 16:07:48
 [2025-05-15 22:26:59,079] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 [2025-05-15 22:26:59,219] INFO: Сообщение из канала archivajno переслано в @Collect_Offers.
 [2025-05-15 22:27:05,984] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:28:12,687] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:29:51,995] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:29:52,000] INFO: [1] Retrying "updates.GetChannelDifference" due to TimeoutError()
+[2025-05-15 22:29:52,118] INFO: Сообщение из канала nevolk_vacancies переслано в @Collect_Offers.
+[2025-05-15 22:30:03,332] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:30:03,533] INFO: Сообщение из канала nevolk_vacancies переслано в @Collect_Offers.
+[2025-05-15 22:30:41,618] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:30:48,157] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:30:54,577] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:31:08,017] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:31:15,122] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:31:50,848] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:31:56,397] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:32:02,852] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-15 22:32:10,908] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
