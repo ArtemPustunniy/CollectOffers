@@ -14,9 +14,9 @@ COPY . /app
 ENV CHROME_PROFILE="/app/ChromeProfile"
 
 # Меняем владельца, чтобы seluser мог записывать в /app (включая ChromeProfile)
-RUN chown -R seluser:seluser /app
+RUN chown -R appuser:appuser /app
 
-USER seluser
+USER appuser
 
 RUN google-chrome --version
 RUN chromedriver --version

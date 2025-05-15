@@ -7,33 +7,33 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-def get_driver():
-    options = Options()
-
-    project_root = os.path.abspath(os.path.dirname(__file__))
-    # profile_path = os.path.join(project_root, "ChromeProfile")
-    # options.add_argument(f"user-data-dir={profile_path}")
-
-    profile_path = os.getenv("CHROME_PROFILE")
-    if profile_path:
-        options.add_argument(f"--user-data-dir={profile_path}")
-
-    # options.add_argument('--headless')
-    options.add_argument('--disable-gpu')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    driver = webdriver.Chrome(options=options)
-    return driver
-
 # def get_driver():
 #     options = Options()
-#     options.add_argument("user-data-dir=C:/Selenium/ChromeProfile")
+#
+#     project_root = os.path.abspath(os.path.dirname(__file__))
+#     # profile_path = os.path.join(project_root, "ChromeProfile")
+#     # options.add_argument(f"user-data-dir={profile_path}")
+#
+#     profile_path = os.getenv("CHROME_PROFILE")
+#     if profile_path:
+#         options.add_argument(f"--user-data-dir={profile_path}")
+#
 #     # options.add_argument('--headless')
 #     options.add_argument('--disable-gpu')
 #     options.add_argument('--no-sandbox')
 #     options.add_argument('--disable-dev-shm-usage')
 #     driver = webdriver.Chrome(options=options)
 #     return driver
+
+def get_driver():
+    options = Options()
+    options.add_argument("user-data-dir=C:/Selenium/ChromeProfile")
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    driver = webdriver.Chrome(options=options)
+    return driver
 
 
 def manual_login(driver):
