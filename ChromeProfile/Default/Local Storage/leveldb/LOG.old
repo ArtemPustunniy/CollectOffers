@@ -1,3 +1,18 @@
-2025/04/28-15:47:12.885 2318 Reusing MANIFEST C:\Selenium\ChromeProfile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/04/28-15:47:12.890 2318 Recovering log #4
-2025/04/28-15:47:12.891 2318 Reusing old log C:\Selenium\ChromeProfile\Default\Local Storage\leveldb/000004.log 
+2025/05/15-23:08:45.141 7dd8 Reusing MANIFEST C:\Selenium\ChromeProfile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/15-23:08:45.146 7dd8 Recovering log #20
+2025/05/15-23:08:45.148 7dd8 Reusing old log C:\Selenium\ChromeProfile\Default\Local Storage\leveldb/000020.log 
+2025/05/15-23:29:45.642 7dd8 Level-0 table #24: started
+2025/05/15-23:29:45.645 7dd8 Level-0 table #24: 32322 bytes OK
+2025/05/15-23:29:45.646 7dd8 Delete type=0 #20
+2025/05/15-23:29:45.647 7dd8 Compacting 4@0 + 1@1 files
+2025/05/15-23:29:45.650 7dd8 Generated table #25@0: 24 keys, 3814 bytes
+2025/05/15-23:29:45.650 7dd8 Compacted 4@0 + 1@1 files => 3814 bytes
+2025/05/15-23:29:45.651 7dd8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/15-23:29:45.652 7dd8 Delete type=2 #13
+2025/05/15-23:29:45.662 7dd8 Delete type=2 #15
+2025/05/15-23:29:45.662 7dd8 Delete type=2 #18
+2025/05/15-23:29:45.662 7dd8 Delete type=2 #21
+2025/05/15-23:29:45.662 7dd8 Delete type=2 #24
+2025/05/15-23:56:45.629 3c48 Level-0 table #27: started
+2025/05/15-23:56:45.632 3c48 Level-0 table #27: 32533 bytes OK
+2025/05/15-23:56:45.634 3c48 Delete type=0 #23
