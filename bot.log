@@ -5457,3 +5457,107 @@ Edited: 1 February 2025, 16:07:48
 [2025-05-16 00:22:07,380] INFO: Session started
 [2025-05-16 00:22:07,382] INFO: PingTask started
 [2025-05-16 00:22:07,558] INFO: Started 20 HandlerTasks
+[2025-06-17 18:03:28,813] INFO: Connecting...
+[2025-06-17 18:03:28,859] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 18:03:28,861] INFO: NetworkTask started
+[2025-06-17 18:03:29,123] INFO: Session initialized: Layer 201
+[2025-06-17 18:03:29,124] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 18:03:29,124] INFO: System: Windows 10 (EN)
+[2025-06-17 18:03:29,124] INFO: Session started
+[2025-06-17 18:03:29,125] INFO: PingTask started
+[2025-06-17 18:03:29,317] INFO: Started 20 HandlerTasks
+[2025-06-17 18:03:30,335] WARNING: The chromedriver version (136.0.7103.92) detected in PATH at C:\Program Files\ChromeDriver\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (137.0.7151.104); currently, chromedriver 137.0.7151.70 is recommended for chrome 137.*, so it is advised to delete the driver in PATH and retry
+[2025-06-17 18:06:09,328] INFO: Connecting...
+[2025-06-17 18:06:09,425] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 18:06:09,426] INFO: NetworkTask started
+[2025-06-17 18:06:09,877] INFO: Session initialized: Layer 201
+[2025-06-17 18:06:09,878] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 18:06:09,878] INFO: System: Windows 10 (EN)
+[2025-06-17 18:06:09,878] INFO: Session started
+[2025-06-17 18:06:09,880] INFO: PingTask started
+[2025-06-17 18:06:10,113] INFO: Started 20 HandlerTasks
+[2025-06-17 18:06:10,305] WARNING: The chromedriver version (136.0.7103.92) detected in PATH at C:\Program Files\ChromeDriver\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (137.0.7151.104); currently, chromedriver 137.0.7151.70 is recommended for chrome 137.*, so it is advised to delete the driver in PATH and retry
+[2025-06-17 18:24:48,591] INFO: Connecting...
+[2025-06-17 18:24:48,662] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 18:24:48,664] INFO: NetworkTask started
+[2025-06-17 18:24:48,987] INFO: Session initialized: Layer 201
+[2025-06-17 18:24:48,987] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 18:24:48,987] INFO: System: Windows 10 (EN)
+[2025-06-17 18:24:48,987] INFO: Session started
+[2025-06-17 18:24:48,989] INFO: PingTask started
+[2025-06-17 18:24:49,250] INFO: Started 20 HandlerTasks
+[2025-06-17 18:24:49,430] WARNING: The chromedriver version (136.0.7103.92) detected in PATH at C:\Program Files\ChromeDriver\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (137.0.7151.104); currently, chromedriver 137.0.7151.70 is recommended for chrome 137.*, so it is advised to delete the driver in PATH and retry
+[2025-06-17 19:17:49,100] INFO: Connecting...
+[2025-06-17 19:17:49,175] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 19:17:49,176] INFO: NetworkTask started
+[2025-06-17 19:17:49,478] INFO: Session initialized: Layer 201
+[2025-06-17 19:17:49,478] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 19:17:49,479] INFO: System: Windows 10 (EN)
+[2025-06-17 19:17:49,479] INFO: Session started
+[2025-06-17 19:17:49,482] INFO: PingTask started
+[2025-06-17 19:17:49,693] INFO: Started 20 HandlerTasks
+[2025-06-17 19:17:50,619] WARNING: The chromedriver version (136.0.7103.92) detected in PATH at C:\Program Files\ChromeDriver\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (137.0.7151.104); currently, chromedriver 137.0.7151.70 is recommended for chrome 137.*, so it is advised to delete the driver in PATH and retry
+[2025-06-17 19:18:52,753] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+[2025-06-17 19:18:53,054] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+[2025-06-17 19:18:53,354] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+[2025-06-17 19:19:57,457] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-17 19:19:57,470] INFO: NetworkTask stopped
+[2025-06-17 19:19:57,471] INFO: PingTask stopped
+[2025-06-17 19:19:57,471] INFO: Disconnected
+[2025-06-17 19:19:57,471] INFO: Session stopped
+[2025-06-17 19:19:57,472] INFO: Connecting...
+[2025-06-17 19:19:57,535] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 19:19:57,535] INFO: NetworkTask started
+[2025-06-17 19:19:57,679] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:19:57,825] INFO: Session initialized: Layer 201
+[2025-06-17 19:19:57,825] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 19:19:57,826] INFO: System: Windows 10 (EN)
+[2025-06-17 19:19:57,826] INFO: Session started
+[2025-06-17 19:19:57,826] INFO: PingTask started
+[2025-06-17 19:19:58,017] INFO: Сообщение из канала ArchHunter переслано в @Collect_Offers.
+[2025-06-17 19:20:23,279] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-17 19:20:23,284] INFO: [1] Retrying "channels.GetMessages" due to TimeoutError()
+[2025-06-17 19:20:23,284] INFO: [1] Retrying "messages.GetStickerSet" due to TimeoutError()
+[2025-06-17 19:20:23,330] INFO: NetworkTask stopped
+[2025-06-17 19:20:23,331] INFO: PingTask stopped
+[2025-06-17 19:20:23,331] INFO: Disconnected
+[2025-06-17 19:20:23,331] INFO: Session stopped
+[2025-06-17 19:20:23,332] INFO: Connecting...
+[2025-06-17 19:20:23,333] INFO: [1] Retrying "messages.SendMessage" due to TimeoutError()
+[2025-06-17 19:20:23,382] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 19:20:23,383] INFO: NetworkTask started
+[2025-06-17 19:20:23,527] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:23,528] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:23,530] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:23,532] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:23,533] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:23,590] INFO: Session initialized: Layer 201
+[2025-06-17 19:20:23,590] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 19:20:23,590] INFO: System: Windows 10 (EN)
+[2025-06-17 19:20:23,591] INFO: Session started
+[2025-06-17 19:20:23,591] INFO: PingTask started
+[2025-06-17 19:20:24,035] INFO: Сообщение из канала ArchHunter переслано в @Collect_Offers.
+[2025-06-17 19:20:34,280] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-17 19:20:44,352] INFO: NetworkTask stopped
+[2025-06-17 19:20:44,352] INFO: PingTask stopped
+[2025-06-17 19:20:44,352] INFO: Disconnected
+[2025-06-17 19:20:44,353] INFO: Session stopped
+[2025-06-17 19:20:44,353] INFO: Connecting...
+[2025-06-17 19:20:44,354] INFO: [1] Retrying "messages.SendMessage" due to TimeoutError()
+[2025-06-17 19:20:51,419] INFO: Connected! Production DC2 - IPv4 - TCPAbridgedO
+[2025-06-17 19:20:51,419] INFO: NetworkTask started
+[2025-06-17 19:20:51,659] INFO: Discarding packet: The msg_id is equal to any of the stored values
+[2025-06-17 19:20:51,795] INFO: Session initialized: Layer 201
+[2025-06-17 19:20:51,796] INFO: Device: CPython 3.11.9 - Pyrogram 2.2.10
+[2025-06-17 19:20:51,796] INFO: System: Windows 10 (EN)
+[2025-06-17 19:20:51,796] INFO: Session started
+[2025-06-17 19:20:51,796] INFO: PingTask started
+[2025-06-17 19:20:51,863] INFO: Сообщение из канала ArchHunter переслано в @Collect_Offers.
+[2025-06-17 19:20:57,852] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-17 19:20:58,007] INFO: Сообщение из канала ArchHunter переслано в @Collect_Offers.
+[2025-06-17 19:21:07,028] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-17 19:21:07,174] INFO: Сообщение из канала ArchHunter переслано в @Collect_Offers.
+[2025-06-17 19:21:24,076] INFO: Retrying request to /chat/completions in 0.425963 seconds
+[2025-06-17 19:21:24,648] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+[2025-06-17 19:21:25,182] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+[2025-06-17 19:21:25,729] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
