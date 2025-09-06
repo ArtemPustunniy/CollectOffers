@@ -64,22 +64,32 @@ def handle_new_message(app, elem, channel):
 
     try:
         message_text = elem.get("text", "")
-        if not is_relevant(message_text):
-            print("Сообщение не соответствует критериям фильтрации.")
-            return
+        # if not is_relevant(message_text):
+        #     print("Сообщение не соответствует критериям фильтрации.")
+        #     return
 
-        openai_response = check_with_openai(message_text)
-        if not openai_response or not openai_response.get("approve"):
-            print("Сообщение не прошло проверку через OpenAI.")
-            return
+        # openai_response = check_with_openai(message_text)
+        # if not openai_response or not openai_response.get("approve"):
+        #     print("Сообщение не прошло проверку через OpenAI.")
+        #     return
 
         target_channel = TARGET_CHAT if TARGET_CHAT.startswith('@') else f"@{TARGET_CHAT}"
-        app.send_message(target_channel, openai_response.get("formalization"))
+        # app.send_message(target_channel, openai_response.get("formalization"))
+        app.send_message(target_channel, message_text)
         logger.info(f"Сообщение из канала {channel} переслано в {target_channel}.")
     except Exception as e:
         logger.error(f"Ошибка при обработке сообщения: {e}")
         return
 
+
+def get_channel_url(channel):
+    """Определяет правильный URL для канала"""
+    if channel.startswith('https://'):
+        return channel  # Полная ссылка
+    elif channel.startswith('-'):
+        return f"https://web.telegram.org/k/#{channel}"  # ID канала
+    else:
+        return f"https://web.telegram.org/k/#@{channel}"  # Никнейм
 
 def start_parsing(app):
     current_driver = get_driver()
@@ -90,7 +100,7 @@ def start_parsing(app):
         span_counter = 1
         try:
             for channel in CHANNELS:
-                current_url = f"https://web.telegram.org/k/#@{channel}"
+                current_url = get_channel_url(channel)
                 print(f"Обрабатывается канал {channel}")
                 open_channel(current_driver, current_url, channel)
                 current_html = parse_html(current_driver, html_counter)
